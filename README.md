@@ -2,7 +2,7 @@
 ---
 ## Welcome to Gabriel Roddy's IGME-110 Repository
 ### Some notable information about me
-- [RIT](https://www.rit.edu/) // Class of 2028
+- [**RIT**](https://www.rit.edu/) // Class of **2028**
 - Game Design and Development Major
 - Huge Nerd
 ---
